@@ -1,0 +1,15 @@
+C:\Users\Robson\Desktop\projekty visual studio\kolko\bin\Debug\kolko.exe.config
+C:\Users\Robson\Desktop\projekty visual studio\kolko\bin\Debug\kolko.exe
+C:\Users\Robson\Desktop\projekty visual studio\kolko\bin\Debug\kolko.pdb
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.csproj.AssemblyReference.cache
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\MainWindow.g.cs
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\App.g.cs
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko_MarkupCompile.cache
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko_MarkupCompile.lref
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\MainWindow.baml
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.g.resources
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.Properties.Resources.resources
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.csproj.GenerateResource.cache
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.exe
+C:\Users\Robson\Desktop\projekty visual studio\kolko\obj\Debug\kolko.pdb
